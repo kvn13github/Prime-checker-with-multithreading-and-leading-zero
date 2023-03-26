@@ -17,5 +17,7 @@ Tryng to optimize the java code, the language I know least for better multithrea
 
 But chatgtp keeps giving me broken code, so this may take a while.
 
+The prime numbers game is like falling into a black hole, keeps getting more complicated. I guess this is the whole point of why it's used in cryptography, and why I got sucked in as well.
+
 
 Created with the use of ChatGTP.
