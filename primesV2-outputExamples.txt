@@ -1,0 +1,87 @@
+
+Output linux executable compiled from the c++ code:
+
+--$ ./primesV2
+
+Enter the number of digits: 2
+Finding highest prime...
+Highest prime: 97
+Finding lower primes...
+Lower primes: [02, 03, 05, 07, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89]
+Checking for Sophie Germain and safe primes...
+2 is a Sophie Germain prime
+3 is a Sophie Germain prime
+5 is a Sophie Germain prime and a safe prime
+7 is a safe prime
+11 is a Sophie Germain prime and a safe prime
+13
+17
+19
+23 is a Sophie Germain prime and a safe prime
+29 is a Sophie Germain prime
+31
+37
+41 is a Sophie Germain prime
+43
+47 is a safe prime
+53 is a Sophie Germain prime
+59 is a safe prime
+61
+67
+71
+73
+79
+83 is a Sophie Germain prime and a safe prime
+89 is a Sophie Germain prime
+
+Output python code:
+
+--$ python3 primesV2.py
+
+Enter the number of digits: 2
+Highest prime: 97
+Lower primes: ['02', '03', '05', '07', '11', '13', '17', '19', '23', '29', '31', '37', '41', '43', '47', '53', '59', '61', '67', '71', '73', '79', '83', '89']
+Checking for Sophie Germain and safe primes...
+02 is a Sophie Germain prime
+03 is a Sophie Germain prime
+05 is a Sophie Germain prime
+11 is a Sophie Germain prime
+23 is a Sophie Germain prime
+29 is a Sophie Germain prime
+41 is a Sophie Germain prime
+53 is a Sophie Germain prime
+83 is a Sophie Germain prime
+89 is a Sophie Germain prime
+02 is a Sophie GermainSafe prime
+03 is a Sophie GermainSafe prime
+05 is a Sophie GermainSafe prime
+11 is a Sophie GermainSafe prime
+23 is a Sophie GermainSafe prime
+29 is a Sophie GermainSafe prime
+41 is a Sophie GermainSafe prime
+53 is a Sophie GermainSafe prime
+83 is a Sophie GermainSafe prime
+89 is a Sophie GermainSafe prime
+
+And output Java code:
+java primesV2.java
+
+Enter the number of digits: 2
+Finding highest prime...
+Highest prime: 97
+Finding lower primes...
+Lower primes: [02, 03, 05, 07, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89]
+Checking for Sophie Germain and safe primes...
+2 is a Sophie Germain prime
+3 is a Sophie Germain prime
+5 is a Sophie Germain and safe prime
+7 is a safe prime
+11 is a Sophie Germain and safe prime
+23 is a Sophie Germain and safe prime
+29 is a Sophie Germain prime
+41 is a Sophie Germain prime
+47 is a safe prime
+53 is a Sophie Germain prime
+59 is a safe prime
+83 is a Sophie Germain and safe prime
+89 is a Sophie Germain prime
