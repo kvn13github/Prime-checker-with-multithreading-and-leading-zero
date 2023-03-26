@@ -4,7 +4,7 @@ I started with the Python code, then added multithreading in V2, then translated
 Check the output examples on how to use it in a terminal.
 
 So the code first asks how many digits, then prints the highest prime, then the lower primes, with a leading zero (imagine a bike lock with numbers)
-then checks these for Sophie-germain and safe primes.
+then checks these for Sophie Germain and safe primes.
 
 With the added multithreading it is capable of generating output very fast even for prime numbers several digits long.
 
